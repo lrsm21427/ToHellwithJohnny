@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameManager">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgIAAAAAAAgAAAAEAAAACAAAAAAQAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManger">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAACAgiAAAAAAAiACAAAAAQAAAAAAAAAFA=</HashCode>
+      <FileName>Assets\Scripts\LevelManger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveScript">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEQQgMgIEKEAYQCAGAAIEAUAAEAABEQgIGCIgAAAgQA=</HashCode>
+      <FileName>Assets\Scripts\MoveScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PartScripts">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PartScripts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UImanger">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAABAAAAEAAAAAAAQYAgAAAAAgAUAAAAAABAAAI=</HashCode>
+      <FileName>Assets\Scripts\UImanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
